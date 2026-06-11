@@ -1,2 +1,3 @@
 # Project-demo
-this is my first Git reposit0ry
+this is my first Git repository
+Author name:-Stuti
